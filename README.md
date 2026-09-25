@@ -33,3 +33,7 @@ security, networking, distributed systems, observability and low-level programmi
 ---
 
 probably rewriting something in rust, and yeah, i use arch btw
+
+<p align="center">
+  <img src="pixelart.png" alt="Guinness banner" width="100%" />
+</p>
