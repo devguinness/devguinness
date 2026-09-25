@@ -1,16 +1,35 @@
-## Hi there 👋
+# Guinness
 
-<!--
-**devguinness/devguinness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rust, backend, security, infra and low-level stuff.
 
-Here are some ideas to get you started:
+i care way too much about performance, memory usage and things behaving properly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stuff i use
+
+<p align="center">
+  <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Rust" title="Rust" width="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://go.dev/images/favicon-gopher.svg" alt="Go" title="Go" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="48" />
+</p>
+
+## Projects
+
+- Berv
+
+## Interests
+
+security, networking, distributed systems, observability and low-level programming.
+
+---
+
+probably rewriting something in rust, and yeah, i use arch btw
